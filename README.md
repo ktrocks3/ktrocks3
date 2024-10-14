@@ -7,7 +7,7 @@ I'm a 20-year-old Master’s student in Computer Science at TU Eindhoven. I spen
 - Diving into **AI** 🤖
 - Exploring anything that challenges my problem-solving skills 🔍
 
-When I'm not coding, you can catch me playing **D&D** 🎲 or trying to improve my Dutch skills—one awkward conversation at a time. 🇳🇱
+When I'm not coding, you can catch me playing **D&D** 🎲 or trying to improve my Dutch skills—one awkward conversation at a time. :netherlands:
 
 ## Fun Fact:
 I do great at **version control**... but still can't control my caffeine intake ☕️
