@@ -1,9 +1,17 @@
-# 💫 About Me:
-Hey, I’m Kishan, a 23-year-old Master’s student in Computer Science at TU Eindhoven. I spend my time building software, teaching others, and may or may not have tried to optimize my grocery budget with Python.
+# 👋 Hey there, I’m Kishan!
 
-I love working on backend projects, diving into AI, and exploring anything that challenges my problem-solving skills. When I'm not coding, you can catch me playing D&D or trying to improve my Dutch skills—one awkward conversation at a time.
+I'm a 20-year-old Master’s student in Computer Science at TU Eindhoven. I spend my time building software, teaching others, and may or may not have tried to optimize my grocery budget with Python. 🐍💻
 
-Fun fact: I do great at version control… but still can't control my caffeine intake.
+## 🚀 What I Love:
+- Working on **backend projects** 
+- Diving into **AI** 🤖
+- Exploring anything that challenges my problem-solving skills 🔍
+
+When I'm not coding, you can catch me playing **D&D** 🎲 or trying to improve my Dutch skills—one awkward conversation at a time. 🇳🇱
+
+## Fun Fact:
+I do great at **version control**... but still can't control my caffeine intake ☕️
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ktrocks2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ktrocks2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-thakurani-78744b252) 
