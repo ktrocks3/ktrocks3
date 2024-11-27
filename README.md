@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Kishan!
 
-I'm a 20-year-old Master’s student in Computer Science at TU Eindhoven. I spend my time building software, teaching others, and may or may not have tried to optimize my grocery budget with Python. 🐍💻
+I'm a 21-year-old Master’s student in Computer Science at TU Eindhoven. I spend my time building software, teaching others, and may or may not have tried to optimize my grocery budget with Python. 🐍💻
 
 ## 🚀 What I Love:
 - Working on **backend projects** 
